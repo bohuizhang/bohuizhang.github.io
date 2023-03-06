@@ -6,7 +6,7 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 5
 ---
+### 2022-2023 TA
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+* **7CUSMNDA** Network Data Analysis
+* **5CCS2FC2** Foundations of Computing 2

@@ -2,7 +2,7 @@
 layout: default
 title: blog
 pagination:
-  enabled: true
+  enabled: false # true
   collection: posts
   permalink: /page/:num/
   per_page: 5
@@ -15,7 +15,7 @@ pagination:
 
 <div class="post">
 
-  <div class="header-bar">
+  <!-- <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
@@ -33,7 +33,7 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
+  {% endif %} -->
 
   <ul class="post-list">
     {% for post in paginator.posts %}

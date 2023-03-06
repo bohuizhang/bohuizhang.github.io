@@ -545,6 +545,7 @@ footer.sticky-bottom {
       }
       .links {
         a.btn {
+          margin-left: 0;
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
           padding-left: 1rem;

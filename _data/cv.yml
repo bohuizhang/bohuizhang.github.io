@@ -2,96 +2,112 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Bohui Zhang
+    # - name: Date of Birth
+    #   value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English (fluent), Chinese (native)
+    - name: Skills
+      value: Python, PyTorch, Java, SPARQL, SQL, MATLAB
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Computer Science
+      institution: King's College London, London, UK
+      year: 2022 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisors: Prof. Elena Simperl, Dr. Albert Meroño Peñuela"
+      
+    - title: M.Sc., Applied Data Science
+      institution: University of Southern California, Los Angeles, USA
+      year: 2020 - 2021
+      description: 
+        - "GPA: 3.9/4.0"
+
+    - title: B.Sc., Materials and Nanosciences 
+      institution: University of Waterloo, Waterloo, Canada 
+      year: 2017 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Graduation Dean's Honours List
+
+    - title: B.Eng., Nanomaterials and Nanotechnology
+      institution: Beijing Jiaotong University, Beijing, China
+      year: 2016 - 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Knowledge Graphs Enrichment Model
+      institution: <b>Student Researcher</b> @ Information Sciences Institute, University of Southern California
+      year: 2021
+      description: 
+        - 'Supervisor: <a href="http://www.ilievski.info/">Dr. Filip Ilievski</a>'
+        - Investigated the feasibility of enriching Wikidata with structured data sources from the linked open data (LOD) cloud.
+        - "Proposed a method that consists of several steps: gap detection, external graph selection, schema alignment, knowledge retrieval, and validation, implemented the procedure using the Knowledge Graph Toolkit (KGTK)."
+        - "Evaluated the method on enriching Wikidata with two LOD sources: DBpedia and Getty Vocabularies. The experiments showed that the LOD-based method can enrich Wikidata with millions of new high-quality statements efficiently."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Neural Architecture Search in Real-World Computer Vision Application
+      institution: <b>Machine Learning Intern</b> @ Alibaba Cloud, Hangzhou, China
+      year: 2021
+      description: 
+        - 'Supervisor: <a href="https://www.linkedin.com/in/alvinchu">Jingjun (Alvin) Chu</a>'
+        - Worked on a Neural Architecture Search (NAS) system for optimizing models in search space defined by ProxylessNAS, used on image classification and feature extraction tasks based on dataset collecting from group's retail sector.
+        - Improved the model training process using knowledge distillation and improved the optimal model architecture searching process in various hardware environments using policy gradient algorithm based on target accuracy, FLOPs and latency.
+        - The optimal models deployed on terminal machines achieved model compression for more than 60% decrease on FLOPs while improving rank1 and rank6 compared with state-of-the-art MobileNetV2 models and keeping the top1 accuracy above 98%.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
+      institution: University of Waterloo
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Graduation Dean's Honours List
+    - year: 2015 - 2019
+      institution: Beijing Jiaotong University
       items: 
-        - Max Planck Medal
+        - Waterloo-Beijing Jiaotong University Tuition Award (2016, 2017, 2018)
+        - Excellence Scholarship of Academic Activities (2017 - 2018)
+        - Excellence Scholarship of Social Activities (2015 - 2016)
 
-- title: Academic Interests
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: Academic Services
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: <b>Reviewer</b>
+      items: ACM CHI (2023)
 
-- title: Other Interests
-  type: list
+- title: Teaching Assistant
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: <b>7CUSMNDA</b> Network Data Analysis
+      items: 
+        - 'Semester: 2022-23 Semester 2'
+        - 'Instructor: <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Dr. Albert Meroño Peñuela</a>'
+    - title: <b>5CCS2FC2</b> Foundations of Computing 2
+      items:
+        - 'Semester: 2022-23 Semester 1'
+        - 'Instructor: <a href="https://www.kcl.ac.uk/people/christopher-hampson">Dr. Christopher Hampson</a>'

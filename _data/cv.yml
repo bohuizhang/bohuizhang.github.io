@@ -42,7 +42,7 @@
       institution: <b>Student Researcher</b> @ Information Sciences Institute, University of Southern California
       year: 2021
       description: 
-        - 'Supervisor: <a href="http://www.ilievski.info/">Dr. Filip Ilievski</a>'
+        - 'Supervisor: Dr. <a href="http://www.ilievski.info/">Filip Ilievski</a>'
         - Investigated the feasibility of enriching Wikidata with structured data sources from the linked open data (LOD) cloud.
         - "Proposed a method that consists of several steps: gap detection, external graph selection, schema alignment, knowledge retrieval, and validation, implemented the procedure using the Knowledge Graph Toolkit (KGTK)."
         - "Evaluated the method on enriching Wikidata with two LOD sources: DBpedia and Getty Vocabularies. The experiments showed that the LOD-based method can enrich Wikidata with millions of new high-quality statements efficiently."
@@ -106,8 +106,8 @@
     - title: <b>7CUSMNDA</b> Network Data Analysis
       items: 
         - 'Semester: 2022-23 Semester 2'
-        - 'Instructor: <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Dr. Albert Meroño Peñuela</a>'
+        - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Albert Meroño Peñuela</a>'
     - title: <b>5CCS2FC2</b> Foundations of Computing 2
       items:
         - 'Semester: 2022-23 Semester 1'
-        - 'Instructor: <a href="https://www.kcl.ac.uk/people/christopher-hampson">Dr. Christopher Hampson</a>'
+        - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/christopher-hampson">Christopher Hampson</a>'

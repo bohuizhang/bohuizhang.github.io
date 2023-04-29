@@ -7,8 +7,18 @@
     #   value: 14th March 1879
     - name: Languages
       value: English (fluent), Chinese (native)
-    - name: Skills
-      value: Python, PyTorch, Java, SPARQL, SQL, MATLAB
+
+- title: Skills
+  type: map
+  contents:
+    - name: Languages
+      value: Python (very good), Java, JavaScript, MATLAB
+    - name: Frameworks
+      value: PyTorch, transformers, <a href="https://github.com/usc-isi-i2/kgtk">KGTK</a>
+    - name: Semantic Web Tech Stacks
+      value: OWL, RDF, LOD, SPARQL, PROV
+    - name: Databases
+      value: MongoDB, MySQL, Neo4j
 
 - title: Education
   type: time_table
@@ -97,6 +107,8 @@
 - title: Academic Services
   type: nested_list
   contents:
+    - title: <b>Organizer</b>
+      items: <a href="https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/">Knowledge Prompting Hackathon 2023</a>
     - title: <b>Reviewer</b>
       items: ACM CHI (2023)
 

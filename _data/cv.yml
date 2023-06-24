@@ -76,6 +76,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      institution: King's College London
+      items:
+        - Human-AI NET Travel Awards (HHAI 2023 Conference)
     - year: 2019
       institution: University of Waterloo
       items: 
@@ -111,6 +115,8 @@
       items: <a href="https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/">Knowledge Prompting Hackathon 2023</a>
     - title: <b>Reviewer</b>
       items: ACM CHI (2023)
+    - title: <b>Member</b>
+      items: Knowledge Graphs Interest Group at the Alan Turing Institute
 
 - title: Teaching Assistant
   type: nested_list

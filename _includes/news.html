@@ -1,8 +1,8 @@
           
           <div class="news">
-            {% if site.news != blank -%} 
+            {% if site.news != blank -%}
             {%- assign news_size = site.news | size -%}
-            <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
+            <div class="table-responsive" {% if include.limit and site.news_scrollable and news_size > 3 %}style="max-height: 20vw"{% endif %}>
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%}
               {% if site.news_limit %}
@@ -10,7 +10,8 @@
               {% else %}
               {% assign news_limit = news_size %}
               {% endif %}
-              {% for item in news limit: news_limit %} 
+              <!-- force news_limit to 3 -->
+              {% for item in news limit: 3 %} 
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>

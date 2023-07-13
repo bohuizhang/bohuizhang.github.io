@@ -9,6 +9,8 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
+For full publications, please refer to my <a href='https://scholar.google.com/citations?user=Ryj36iQAAAAJ&hl=en'>Google Scholar</a> page.
+
 <div class="publications">
 
 {%- for y in page.years %}

@@ -76,10 +76,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 2022 - 2024
       institution: King's College London
       items:
-        - Humane-AI NET Travel Awards (HHAI 2023 Conference)
+        - NMES Enterprise & Engagement Partnerships Fund
+        - ISWC 2023 Student Travel Award
+        - Humane-AI NET Travel Awards
     - year: 2019
       institution: University of Waterloo
       items: 
@@ -123,9 +125,9 @@
   contents:
     - title: <b>7CUSMNDA</b> Network Data Analysis
       items: 
-        - 'Semester: 2022-23 Semester 2'
+        - 'Semesters: 2022-23 Semester 2, 2023-24 Semester 2'
         - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Albert Meroño Peñuela</a>'
     - title: <b>5CCS2FC2</b> Foundations of Computing 2
       items:
-        - 'Semester: 2022-23 Semester 1'
+        - 'Semesters: 2022-23 Semester 1'
         - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/christopher-hampson">Christopher Hampson</a>'

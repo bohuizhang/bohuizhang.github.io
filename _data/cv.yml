@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Bohui Zhang
-    # - name: Date of Birth
-    #   value: 14th March 1879
     - name: Languages
       value: English (fluent), Chinese (native)
 
@@ -66,13 +64,6 @@
         - Improved the model training process using knowledge distillation and improved the optimal model architecture searching process in various hardware environments using policy gradient algorithm based on target accuracy, FLOPs and latency.
         - The optimal models deployed on terminal machines achieved model compression for more than 60% decrease on FLOPs while improving rank1 and rank6 compared with state-of-the-art MobileNetV2 models and keeping the top1 accuracy above 98%.
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
@@ -93,30 +84,18 @@
         - Excellence Scholarship of Academic Activities (2017 - 2018)
         - Excellence Scholarship of Social Activities (2015 - 2016)
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
 - title: Academic Services
   type: nested_list
   contents:
     - title: <b>Organizer</b>
-      items: <a href="https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/">Knowledge Prompting Hackathon 2023</a>
+      items: 
+        - <a href="https://sites.google.com/view/elmke">ELMKE 2024</a>
+        - <a href="https://lm-kbc.github.io/challenge2024/">LM-KBC Challenge @ ISWC 2024</a>
+        - <a href="https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/">Knowledge Prompting Hackathon 2023</a>
     - title: <b>Reviewer</b>
       items: ACM CHI (2023)
+    - title: <b>PC Member</b>
+      items: <a href="https://www.xtail-workshop.org">X-TAIL 2024</a>
     - title: <b>Member</b>
       items: Knowledge Graphs Interest Group at the Alan Turing Institute
 

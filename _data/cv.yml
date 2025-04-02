@@ -4,7 +4,7 @@
     - name: Full Name
       value: Bohui Zhang
     - name: Languages
-      value: English (fluent), Chinese (native)
+      value: English (fluent), Chinese (native), Spanish (beginner)
 
 - title: Skills
   type: map
@@ -71,8 +71,6 @@
       institution: King's College London
       items:
         - NMES Enterprise & Engagement Partnerships Fund
-        - ISWC 2023 Student Travel Award
-        - Humane-AI NET Travel Awards
     - year: 2019
       institution: University of Waterloo
       items: 
@@ -89,8 +87,8 @@
   contents:
     - title: <b>Organizer</b>
       items: 
-        - <a href="https://sites.google.com/view/elmke">ELMKE 2024</a>
-        - <a href="https://lm-kbc.github.io/challenge2024/">LM-KBC Challenge @ ISWC 2024</a>
+        - <a href="https://sites.google.com/view/elmke">ELMKE</a> 2024, 2025
+        - <a href="https://lm-kbc.github.io/challenge2024/">LM-KBC Challenge @ ISWC</a> 2024, 2025
         - <a href="https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/">Knowledge Prompting Hackathon 2023</a>
     - title: <b>Reviewer</b>
       items: EMNLP 2024 FEVER Workshop, ACM CHI (2023)
@@ -102,9 +100,13 @@
 - title: Teaching Assistant
   type: nested_list
   contents:
+    - title: <b>5CCSAKNE</b> Knowledge Engineering
+      items:
+        - 'Semesters: 2024-25 Semester 2'
+        - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Albert Meroño Peñuela</a>, Prof. <a href="https://www.kcl.ac.uk/people/elena-simperl">Elena Simperl</a>'
     - title: <b>7CUSMNDA</b> Network Data Analysis
       items: 
-        - 'Semesters: 2022-23 Semester 2, 2023-24 Semester 2'
+        - 'Semesters: 2022-23 Semester 2, 2023-24 Semester 2, 2024-25 Semester 2'
         - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Albert Meroño Peñuela</a>'
     - title: <b>5CCS2FC2</b> Foundations of Computing 2
       items:

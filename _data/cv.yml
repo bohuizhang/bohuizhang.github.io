@@ -10,9 +10,9 @@
   type: map
   contents:
     - name: Languages
-      value: Python (very good), Java, JavaScript, MATLAB
+      value: Python, Java, JavaScript, MATLAB
     - name: Frameworks
-      value: PyTorch, transformers, <a href="https://github.com/usc-isi-i2/kgtk">KGTK</a>
+      value: LangChain, PyTorch, transformers, <a href="https://github.com/usc-isi-i2/kgtk">KGTK</a>
     - name: Semantic Web Tech Stacks
       value: OWL, RDF, LOD, SPARQL, PROV
     - name: Databases

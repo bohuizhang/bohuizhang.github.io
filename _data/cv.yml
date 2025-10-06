@@ -12,9 +12,9 @@
     - name: Languages
       value: Python, Java, JavaScript, MATLAB
     - name: Frameworks
-      value: LangChain, PyTorch, transformers, <a href="https://github.com/usc-isi-i2/kgtk">KGTK</a>
+      value: Docker, LangChain, PyTorch, transformers, <a href="https://github.com/usc-isi-i2/kgtk">KGTK</a>, OpenAI Agents
     - name: Semantic Web Tech Stacks
-      value: OWL, RDF, LOD, SPARQL, PROV
+      value: OWL, RDF, LOD, SPARQL, SHACL, ShEx, PROV
     - name: Databases
       value: MongoDB, MySQL, Neo4j
 
@@ -91,7 +91,7 @@
         - <a href="https://lm-kbc.github.io/challenge2024/">LM-KBC Challenge @ ISWC</a> 2024, 2025
         - <a href="https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/">Knowledge Prompting Hackathon 2023</a>
     - title: <b>Reviewer</b>
-      items: EMNLP 2024 FEVER Workshop, ACM CHI (2023)
+      items: Information Processing & Management, Semantic Web, SEA@NIPS 2025, EMNLP 2024 FEVER Workshop, ACM CHI 2023
     - title: <b>PC Member</b>
       items: ISWC 2024 Special Session on LLMs, <a href="https://www.xtail-workshop.org">X-TAIL 2024</a>
     - title: <b>Member</b>

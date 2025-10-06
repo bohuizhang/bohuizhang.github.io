@@ -29,4 +29,4 @@ I am Bohui Zhang, a PhD student in the Department of Informatics at King's Colle
 
 Prior to King's, I received my master's degree in Applied Data Science at University of Southern California (USC) in 2021. In USC, I worked on Wikidata enrichment and Linked Open Data with Dr. [Filip Ilievski](http://www.ilievski.info/) at [CKG @ ISI](https://www.isi.edu/centers-ckg/). I had an internship working on neural architecture search at Alibaba Cloud in Summer 2021. 
 
-If you're interested in collaborating with me, don't hesitate to reach out at `bhzhang97@gmail.com`. 😃
+If you're interested in collaborating with me, don't hesitate to reach out at `bohui.zhang.kcl@gmail.com`. 😃

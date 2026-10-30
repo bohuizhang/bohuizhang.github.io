@@ -1,1 +1,2 @@
-nbconvert
+# Optional locally: only needed when publishing Jupyter notebooks.
+nbconvert>=7,<8

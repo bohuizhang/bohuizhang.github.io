@@ -1,0 +1,4 @@
+# Local preview without ImageMagick. Production still generates responsive WebP images.
+url: http://localhost:4000
+imagemagick:
+  enabled: false

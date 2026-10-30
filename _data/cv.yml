@@ -26,15 +26,15 @@
       year: 2022 - NOW
       description:
         - "Advisors: Prof. Elena Simperl, Dr. Albert Meroño Peñuela"
-      
+
     - title: M.Sc., Applied Data Science
       institution: University of Southern California, Los Angeles, USA
       year: 2020 - 2021
-      description: 
+      description:
         - "GPA: 3.9/4.0"
 
-    - title: B.Sc., Materials and Nanosciences 
-      institution: University of Waterloo, Waterloo, Canada 
+    - title: B.Sc., Materials and Nanosciences
+      institution: University of Waterloo, Waterloo, Canada
       year: 2017 - 2018
       description:
         - Graduation Dean's Honours List
@@ -49,7 +49,7 @@
     - title: Knowledge Graphs Enrichment Model
       institution: <b>Student Researcher</b> @ Information Sciences Institute, University of Southern California
       year: 2021
-      description: 
+      description:
         - 'Supervisor: Dr. <a href="http://www.ilievski.info/">Filip Ilievski</a>'
         - Investigated the feasibility of enriching Wikidata with structured data sources from the linked open data (LOD) cloud.
         - "Proposed a method that consists of several steps: gap detection, external graph selection, schema alignment, knowledge retrieval, and validation, implemented the procedure using the Knowledge Graph Toolkit (KGTK)."
@@ -58,7 +58,7 @@
     - title: Neural Architecture Search in Real-World Computer Vision Application
       institution: <b>Machine Learning Intern</b> @ Alibaba Cloud, Hangzhou, China
       year: 2021
-      description: 
+      description:
         - 'Supervisor: <a href="https://www.linkedin.com/in/alvinchu">Jingjun (Alvin) Chu</a>'
         - Worked on a Neural Architecture Search (NAS) system for optimizing models in search space defined by ProxylessNAS, used on image classification and feature extraction tasks based on dataset collecting from group's retail sector.
         - Improved the model training process using knowledge distillation and improved the optimal model architecture searching process in various hardware environments using policy gradient algorithm based on target accuracy, FLOPs and latency.
@@ -73,11 +73,11 @@
         - NMES Enterprise & Engagement Partnerships Fund
     - year: 2019
       institution: University of Waterloo
-      items: 
+      items:
         - Graduation Dean's Honours List
     - year: 2015 - 2019
       institution: Beijing Jiaotong University
-      items: 
+      items:
         - Waterloo-Beijing Jiaotong University Tuition Award (2016, 2017, 2018)
         - Excellence Scholarship of Academic Activities (2017 - 2018)
         - Excellence Scholarship of Social Activities (2015 - 2016)
@@ -86,7 +86,7 @@
   type: nested_list
   contents:
     - title: <b>Organizer</b>
-      items: 
+      items:
         - <a href="https://sites.google.com/view/elmke">ELMKE</a> 2024, 2025
         - <a href="https://lm-kbc.github.io/challenge2024/">LM-KBC Challenge @ ISWC</a> 2024, 2025
         - <a href="https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/">Knowledge Prompting Hackathon 2023</a>
@@ -102,13 +102,13 @@
   contents:
     - title: <b>5CCSAKNE</b> Knowledge Engineering
       items:
-        - 'Semesters: 2024-25 Semester 2'
+        - "Semesters: 2024-25 Semester 2"
         - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Albert Meroño Peñuela</a>, Prof. <a href="https://www.kcl.ac.uk/people/elena-simperl">Elena Simperl</a>'
     - title: <b>7CUSMNDA</b> Network Data Analysis
-      items: 
-        - 'Semesters: 2022-23 Semester 2, 2023-24 Semester 2, 2024-25 Semester 2'
+      items:
+        - "Semesters: 2022-23 Semester 2, 2023-24 Semester 2, 2024-25 Semester 2"
         - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/albert-merono-penuela-1">Albert Meroño Peñuela</a>'
     - title: <b>5CCS2FC2</b> Foundations of Computing 2
       items:
-        - 'Semesters: 2022-23 Semester 1'
+        - "Semesters: 2022-23 Semester 1"
         - 'Instructor: Dr. <a href="https://www.kcl.ac.uk/people/christopher-hampson">Christopher Hampson</a>'

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bohuizhang.github.io/sitemap.xml
+Sitemap: https://bohuizhang.com/sitemap.xml
